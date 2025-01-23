@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731160399 +0100	clone: from https://gitlab.com/ecotopia/worldc-2024
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731160718 +0100	checkout: moving from main to transports
+88cd30ee2763c8d02decc69b46175e3e70ff056e f58c3baa99ff0f5dc25fcfc2c88022da217ba768 Exteal <rh.4@laposte.net> 1731161398 +0100	commit: Transports branch
+f58c3baa99ff0f5dc25fcfc2c88022da217ba768 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161450 +0100	checkout: moving from transports to main
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161467 +0100	checkout: moving from main to energy
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161487 +0100	checkout: moving from energy to main
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161539 +0100	checkout: moving from main to farming
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161559 +0100	checkout: moving from farming to main
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161639 +0100	checkout: moving from main to housing
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161699 +0100	checkout: moving from housing to main
+88cd30ee2763c8d02decc69b46175e3e70ff056e f58c3baa99ff0f5dc25fcfc2c88022da217ba768 Exteal <rh.4@laposte.net> 1731161706 +0100	checkout: moving from main to transports
+f58c3baa99ff0f5dc25fcfc2c88022da217ba768 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161711 +0100	checkout: moving from transports to housing
+88cd30ee2763c8d02decc69b46175e3e70ff056e 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161746 +0100	checkout: moving from housing to farming
+88cd30ee2763c8d02decc69b46175e3e70ff056e f58c3baa99ff0f5dc25fcfc2c88022da217ba768 Exteal <rh.4@laposte.net> 1731161771 +0100	checkout: moving from farming to transports
+f58c3baa99ff0f5dc25fcfc2c88022da217ba768 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731161780 +0100	checkout: moving from transports to energy
+88cd30ee2763c8d02decc69b46175e3e70ff056e f58c3baa99ff0f5dc25fcfc2c88022da217ba768 Exteal <rh.4@laposte.net> 1731161826 +0100	checkout: moving from energy to transports
+f58c3baa99ff0f5dc25fcfc2c88022da217ba768 5fad7cb04453597191cc621665d22107801db1a3 Exteal <rh.4@laposte.net> 1731161962 +0100	commit: Add file Test
+5fad7cb04453597191cc621665d22107801db1a3 6fe44f5da8959d473cab7fcb2af44dbfea98c4e9 Exteal <rh.4@laposte.net> 1731865521 +0100	commit: Create Transports v1
+6fe44f5da8959d473cab7fcb2af44dbfea98c4e9 6fe44f5da8959d473cab7fcb2af44dbfea98c4e9 Exteal <rh.4@laposte.net> 1732050776 +0100	reset: moving to HEAD
+6fe44f5da8959d473cab7fcb2af44dbfea98c4e9 317a9c44bc0745fc65ee9244d9c0ecf2e05efbd1 Exteal <rh.4@laposte.net> 1732050780 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+317a9c44bc0745fc65ee9244d9c0ecf2e05efbd1 317a9c44bc0745fc65ee9244d9c0ecf2e05efbd1 Exteal <rh.4@laposte.net> 1733324737 +0100	reset: moving to HEAD
+317a9c44bc0745fc65ee9244d9c0ecf2e05efbd1 7dcf0441409fe8b2fa73cc9f71626815ae83ef13 Exteal <rh.4@laposte.net> 1733324739 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+7dcf0441409fe8b2fa73cc9f71626815ae83ef13 1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef Exteal <rh.4@laposte.net> 1733326504 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc Exteal <rh.4@laposte.net> 1733580327 +0100	checkout: moving from transports to main
+b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc Exteal <rh.4@laposte.net> 1733583231 +0100	reset: moving to HEAD
+b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc 1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef Exteal <rh.4@laposte.net> 1733583231 +0100	checkout: moving from main to transports
+1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc Exteal <rh.4@laposte.net> 1733622127 +0100	checkout: moving from transports to main
+b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc a2cced83696d69db2cc82dffc905f64650851876 Exteal <rh.4@laposte.net> 1733622142 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+a2cced83696d69db2cc82dffc905f64650851876 1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef Exteal <rh.4@laposte.net> 1733622184 +0100	checkout: moving from main to transports
+1984cc7cce3521c4b2e249397ecbbbfbc9e3ceef a2cced83696d69db2cc82dffc905f64650851876 Exteal <rh.4@laposte.net> 1733622207 +0100	checkout: moving from transports to main
+a2cced83696d69db2cc82dffc905f64650851876 7e04fb22eef668f520fab063efb73b3d7ddbe29d Exteal <rh.4@laposte.net> 1733625053 +0100	commit: Updated transport with demography
+7e04fb22eef668f520fab063efb73b3d7ddbe29d 083896b1c5c11aa9234d3dff224b3d07cbd1d3e3 Exteal <rh.4@laposte.net> 1733676114 +0100	commit: Demoraphy : nb_pers activités & loisirs fixed ; Transports : velo or minibus randomly for scolarite
+083896b1c5c11aa9234d3dff224b3d07cbd1d3e3 55ee413605bfaebc34bd2b819e54d7b3e7bed081 Exteal <rh.4@laposte.net> 1733676363 +0100	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+55ee413605bfaebc34bd2b819e54d7b3e7bed081 aef4809e5744c02bf42abf70f4b16f0bf529e491 Exteal <rh.4@laposte.net> 1733677732 +0100	commit: Demo : simplified death activity choice; Transport : distances updated ; StringUtils file created to reuse strings in multiple files
+aef4809e5744c02bf42abf70f4b16f0bf529e491 33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f Exteal <rh.4@laposte.net> 1733690700 +0100	commit: Clean code transports; remove comments
+33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f cb38869171161a1f628427d4dc982614f7617c52 Exteal <rh.4@laposte.net> 1737643295 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+cb38869171161a1f628427d4dc982614f7617c52 e7f2795a095770319164c77825c964e7cf441db6 Exteal <rh.4@laposte.net> 1737643323 +0100	checkout: moving from main to Experience_No_Urbanism
+e7f2795a095770319164c77825c964e7cf441db6 eb71579c44bbfbcbfe7d626a4895bb9c1107dd46 Exteal <rh.4@laposte.net> 1737643905 +0100	checkout: moving from Experience_No_Urbanism to testTransport
+eb71579c44bbfbcbfe7d626a4895bb9c1107dd46 e7f2795a095770319164c77825c964e7cf441db6 Exteal <rh.4@laposte.net> 1737644236 +0100	checkout: moving from testTransport to Experience_No_Urbanism
+e7f2795a095770319164c77825c964e7cf441db6 8591bb0d81ffe2948314c21f322561319a12212c Exteal <rh.4@laposte.net> 1737647740 +0100	commit: [Transport] Ajout train, donnees sourcees consommation electrique et transport charge
+8591bb0d81ffe2948314c21f322561319a12212c 6d2c38e1e52f4e19e48a12f0313ca198a8865711 Exteal <rh.4@laposte.net> 1737650540 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+6d2c38e1e52f4e19e48a12f0313ca198a8865711 5f764ab5497def9c4f41e3caa37b2792125791e2 Exteal <rh.4@laposte.net> 1737652890 +0100	commit: [Transport] fix run_transport + add /region graph
+5f764ab5497def9c4f41e3caa37b2792125791e2 5f764ab5497def9c4f41e3caa37b2792125791e2 Exteal <rh.4@laposte.net> 1737656911 +0100	reset: moving to HEAD
+5f764ab5497def9c4f41e3caa37b2792125791e2 7a8db8414a86741f46b900595841fb6fc4634c50 Exteal <rh.4@laposte.net> 1737656911 +0100	checkout: moving from Experience_No_Urbanism to main
+7a8db8414a86741f46b900595841fb6fc4634c50 faab0b510d27481efa037bbb0124289a1ebb33d6 Exteal <rh.4@laposte.net> 1737657321 +0100	commit: [Transport] fix transport ; chart by region ; csv generation
+faab0b510d27481efa037bbb0124289a1ebb33d6 979a6a71a0372409327d74283cb99e99d5328878 Exteal <rh.4@laposte.net> 1737662117 +0100	commit: [Transport] clean code + chart externe separated
+979a6a71a0372409327d74283cb99e99d5328878 0b739234dd9d9e203425fe0c8a35393f537c486a Exteal <rh.4@laposte.net> 1737667741 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward

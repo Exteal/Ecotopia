@@ -1,0 +1,16 @@
+88cd30ee2763c8d02decc69b46175e3e70ff056e 704df13b6b5341b5f915a34b7ea7633a4d4bd58a Exteal <rh.4@laposte.net> 1732890420 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+704df13b6b5341b5f915a34b7ea7633a4d4bd58a 9482f54753047ae740d072c02d8336359bf3ed50 Exteal <rh.4@laposte.net> 1733324735 +0100	pull --ff --recurse-submodules --progress origin: fast-forward
+9482f54753047ae740d072c02d8336359bf3ed50 b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc Exteal <rh.4@laposte.net> 1733580321 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc a2cced83696d69db2cc82dffc905f64650851876 Exteal <rh.4@laposte.net> 1733622133 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+a2cced83696d69db2cc82dffc905f64650851876 7e04fb22eef668f520fab063efb73b3d7ddbe29d Exteal <rh.4@laposte.net> 1733625058 +0100	update by push
+7e04fb22eef668f520fab063efb73b3d7ddbe29d dab6152c7efb64970ececd3dc8928550cc7fcd8c Exteal <rh.4@laposte.net> 1733676354 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+dab6152c7efb64970ececd3dc8928550cc7fcd8c 55ee413605bfaebc34bd2b819e54d7b3e7bed081 Exteal <rh.4@laposte.net> 1733676384 +0100	update by push
+55ee413605bfaebc34bd2b819e54d7b3e7bed081 aef4809e5744c02bf42abf70f4b16f0bf529e491 Exteal <rh.4@laposte.net> 1733677736 +0100	update by push
+aef4809e5744c02bf42abf70f4b16f0bf529e491 33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f Exteal <rh.4@laposte.net> 1733690704 +0100	update by push
+33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f be2b53758e7f8a258a8e0fc33189447369806f87 Exteal <rh.4@laposte.net> 1736711396 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+be2b53758e7f8a258a8e0fc33189447369806f87 cb38869171161a1f628427d4dc982614f7617c52 Exteal <rh.4@laposte.net> 1737643295 +0100	pull --ff --recurse-submodules --progress origin: fast-forward
+cb38869171161a1f628427d4dc982614f7617c52 351bbca24a36d0bc87abd122c7e86499142ea213 Exteal <rh.4@laposte.net> 1737650535 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+351bbca24a36d0bc87abd122c7e86499142ea213 7a8db8414a86741f46b900595841fb6fc4634c50 Exteal <rh.4@laposte.net> 1737652812 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+7a8db8414a86741f46b900595841fb6fc4634c50 faab0b510d27481efa037bbb0124289a1ebb33d6 Exteal <rh.4@laposte.net> 1737657327 +0100	update by push
+faab0b510d27481efa037bbb0124289a1ebb33d6 979a6a71a0372409327d74283cb99e99d5328878 Exteal <rh.4@laposte.net> 1737662145 +0100	update by push
+979a6a71a0372409327d74283cb99e99d5328878 0b739234dd9d9e203425fe0c8a35393f537c486a Exteal <rh.4@laposte.net> 1737667734 +0100	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward

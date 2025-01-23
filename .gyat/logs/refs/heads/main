@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 88cd30ee2763c8d02decc69b46175e3e70ff056e Exteal <rh.4@laposte.net> 1731160399 +0100	clone: from https://gitlab.com/ecotopia/worldc-2024
+88cd30ee2763c8d02decc69b46175e3e70ff056e 9482f54753047ae740d072c02d8336359bf3ed50 Exteal <rh.4@laposte.net> 1733324735 +0100	pull: fast-forward
+9482f54753047ae740d072c02d8336359bf3ed50 b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc Exteal <rh.4@laposte.net> 1733580323 +0100	pull: fast-forward
+b84f1ac535c293a15bcc0333e9c17ed6a3f14bcc a2cced83696d69db2cc82dffc905f64650851876 Exteal <rh.4@laposte.net> 1733622142 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+a2cced83696d69db2cc82dffc905f64650851876 7e04fb22eef668f520fab063efb73b3d7ddbe29d Exteal <rh.4@laposte.net> 1733625053 +0100	commit: Updated transport with demography
+7e04fb22eef668f520fab063efb73b3d7ddbe29d 083896b1c5c11aa9234d3dff224b3d07cbd1d3e3 Exteal <rh.4@laposte.net> 1733676114 +0100	commit: Demoraphy : nb_pers activités & loisirs fixed ; Transports : velo or minibus randomly for scolarite
+083896b1c5c11aa9234d3dff224b3d07cbd1d3e3 55ee413605bfaebc34bd2b819e54d7b3e7bed081 Exteal <rh.4@laposte.net> 1733676363 +0100	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+55ee413605bfaebc34bd2b819e54d7b3e7bed081 aef4809e5744c02bf42abf70f4b16f0bf529e491 Exteal <rh.4@laposte.net> 1733677732 +0100	commit: Demo : simplified death activity choice; Transport : distances updated ; StringUtils file created to reuse strings in multiple files
+aef4809e5744c02bf42abf70f4b16f0bf529e491 33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f Exteal <rh.4@laposte.net> 1733690700 +0100	commit: Clean code transports; remove comments
+33bf1ae6ed5dc9ff2a48977a81ccfebf0c536b6f cb38869171161a1f628427d4dc982614f7617c52 Exteal <rh.4@laposte.net> 1737643295 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+cb38869171161a1f628427d4dc982614f7617c52 351bbca24a36d0bc87abd122c7e86499142ea213 Exteal <rh.4@laposte.net> 1737650537 +0100	pull: fast-forward
+351bbca24a36d0bc87abd122c7e86499142ea213 7a8db8414a86741f46b900595841fb6fc4634c50 Exteal <rh.4@laposte.net> 1737652814 +0100	pull: fast-forward
+7a8db8414a86741f46b900595841fb6fc4634c50 faab0b510d27481efa037bbb0124289a1ebb33d6 Exteal <rh.4@laposte.net> 1737657321 +0100	commit: [Transport] fix transport ; chart by region ; csv generation
+faab0b510d27481efa037bbb0124289a1ebb33d6 979a6a71a0372409327d74283cb99e99d5328878 Exteal <rh.4@laposte.net> 1737662117 +0100	commit: [Transport] clean code + chart externe separated
+979a6a71a0372409327d74283cb99e99d5328878 0b739234dd9d9e203425fe0c8a35393f537c486a Exteal <rh.4@laposte.net> 1737667741 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
